@@ -80,6 +80,7 @@ crashlytics-build.properties
 Assets/TextMesh Pro/Examples*/
 Assets/TextMesh Pro/Examples & Extras*/
 Assets/TextMesh Pro/Documentation*/
+Assets/TextMesh Pro/
 
 # Library is always ignored; includes TMP package cache and generated atlases there
 Library/
